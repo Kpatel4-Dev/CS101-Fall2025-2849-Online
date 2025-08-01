@@ -23,3 +23,18 @@ Welcome to Unit 1! Here's what you'll be working on:
 
 Make sure to check Canvas regularly for updates, due dates, and resources. Happy coding!
 
+## 📘 Unit 2: Programming Fundamentals Overview
+
+This unit includes a mix of Snap! and Python activities to build your programming skills.
+
+### ✅ What to Complete
+- [ ] 5 Snap Labs  
+- [ ] 4 Python Labs  
+- [ ] 2 Python Programming Homework assignments  
+- [ ] 2 Snap Programming Homework assignments
+
+--
+
+### 📂 Where to Submit
+- Snap Labs & Homework → Submit `.xml` files to **Canvas**
+- Python Labs & Homework → Submit `.py` files via **GitHub Classroom**
