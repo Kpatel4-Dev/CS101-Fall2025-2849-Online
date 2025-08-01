@@ -1,4 +1,4 @@
-# 📚 CS101 – Fall 2025: Unit 1 Introduction to Programming Overview
+# 📚 CS101 – Unit 1 Introduction to Programming Overview
 
 Welcome to Unit 1! Here's what you'll be working on:
 
@@ -11,7 +11,6 @@ Welcome to Unit 1! Here's what you'll be working on:
 - After finishing each lab:
   - Download your project as a `.xml` file
   - Upload it to **Canvas** under the correct assignment section
-
 ---
 
 ## 🐍 Python Lab (1 Total)
@@ -22,8 +21,8 @@ Welcome to Unit 1! Here's what you'll be working on:
 ---
 
 Make sure to check Canvas regularly for updates, due dates, and resources. Happy coding!
-
-# 📚 CS101 – Fall 2025: Unit 2: Programming Fundamentals Overview
+---
+# 📚 CS101 – Unit 2: Programming Fundamentals Overview
 
 This unit includes a mix of Snap! and Python activities to build your programming skills.
 
@@ -42,3 +41,35 @@ This unit includes a mix of Snap! and Python activities to build your programmin
 - Python Labs & Homework → Submit `.py` files via **GitHub Classroom**
 
 ---
+
+# 🧠 CS101 – Advanced Programming Concepts Overview
+
+This unit dives deeper into Python programming with a focus on file input/output and GUI development using Tkinter. 
+You'll explore real-world applications and enhance your coding fluency through hands-on labs and demos.
+---
+### ✅ What to Complete
+- 2 Python Labs
+- Lab05: File I/O Basics
+- Lab06: File Processing
+- Using Tkinter GUI Lab
++ Practice Exercises from FileInputOutput_ExsDemos and tKinterGUI_Examples_Demos
+  ---
+### 📂 Where to Submit
+- Python Labs & Homework → Submit .py files via GitHub Classroom
+- GUI screenshots (if required) → Upload to Canvas with your .py file
+---
+
+# 🚀 CS101 – Unit 4 – Final Project Implementation
+
+It’s time to bring everything together! In this unit, you’ll apply your programming skills to complete your Final Project. Whether you're using Snap! or Python, this is your chance to showcase creativity, problem-solving, and technical fluency.
+---
+### ✅ What to Complete
+- Final Project (Snap! or Python)
+- Choose a topic that reflects your learning and interests
+- Follow the project rubric and guidelines provided in Canvas
+
+### 📂 Where to Submit
+- Snap Project → Submit .xml file to Canvas
+- Python Project → Submit .py file to Canva
+
+
