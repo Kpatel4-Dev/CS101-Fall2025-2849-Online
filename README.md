@@ -1,12 +1,25 @@
-# CS101-Fall2025-2849-Online
+# 📚 CS101 – Fall 2025: Unit 1 Overview
 
-Welcome to your first Python program! You just started Snap!, so why learn another language? Hopefully, you'll see the similarities to reinforce the theory (lecture topics) covered in class. It also helps to learn with a visual language (Snap!) a new concept, to help you learn it in a traditional typed language (Python). At least for now while you're learning your first programming language!
+Welcome to Unit 1! Here's what you'll be working on:
 
-Follow along with your instructor (in person or with the video posted on Canvas). You'll be doing the following:
+---
 
-- code comments (line and block)
-- documentation
-- printing, printing with variables and calculations
-- variable assignment
-- input from the user
-- converting data type
+## 🧩 Snap Labs (5 Total)
+
+- Access tutorials via **Canvas**
+- Complete labs using the **Snap! browser-based IDE**: [https://snap.berkeley.edu](https://snap.berkeley.edu)
+- After finishing each lab:
+  - Download your project as a `.xml` file
+  - Upload it to **Canvas** under the correct assignment section
+
+---
+
+## 🐍 Python Lab (1 Total)
+
+- On-ground students: We’ll complete this lab **together in class**
+- Online students: A **video walkthrough** will be posted on **Canvas**
+
+---
+
+Make sure to check Canvas regularly for updates, due dates, and resources. Happy coding!
+
