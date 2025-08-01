@@ -1,4 +1,4 @@
-# 📚 CS101 – Fall 2025: Unit 1 Overview
+# 📚 CS101 – Fall 2025: Unit 1 Introduction to Programming Overview
 
 Welcome to Unit 1! Here's what you'll be working on:
 
@@ -23,7 +23,7 @@ Welcome to Unit 1! Here's what you'll be working on:
 
 Make sure to check Canvas regularly for updates, due dates, and resources. Happy coding!
 
-## 📘 Unit 2: Programming Fundamentals Overview
+# 📚 CS101 – Fall 2025: Unit 2: Programming Fundamentals Overview
 
 This unit includes a mix of Snap! and Python activities to build your programming skills.
 
