@@ -4,7 +4,7 @@ Welcome to Unit 1! Here's what you'll be working on:
 
 ---
 
-## 🧩 Snap Labs (5 Total)
+## 🧩 Snap Labs (4 Total)
 
 - Access tutorials via **Canvas**
 - Complete labs using the **Snap! browser-based IDE**: [https://snap.berkeley.edu](https://snap.berkeley.edu)
